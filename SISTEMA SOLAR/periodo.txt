@@ -1,0 +1,9 @@
+El periodo en dias de cada planeta en el Sistema solar es: 
+81.34
+214.97
+360.22
+673.96
+4351.69
+10957.7
+30177.1
+58936.6
